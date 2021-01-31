@@ -10,3 +10,7 @@ This is section 1 text
 
 This is section 2 text
 
+## This is section 3
+
+This is section 3 text
+
